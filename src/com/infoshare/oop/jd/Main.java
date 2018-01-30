@@ -1,7 +1,7 @@
 package com.infoshare.oop.jd;
 
 /**
- * Created by Łukasz Włodarski
+ * Created by Krzysztof Syska
  */
 public class Main {
 
